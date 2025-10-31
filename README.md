@@ -11,8 +11,8 @@ The final results demonstrate how neural networks can significantly enhance both
 
 ---
 
-### 👩‍💻 Contributors
-**Arthi Anbalagan**, **Sheetal Patangay**, **Siddharth Panasa**, **Varshith Ponnam**  
+### 👩‍💻 Contributor
+**Sheetal Patangay** 
 *School of Business Administration, The Pennsylvania State University*  
 Course: **BUS 510 — Business Analytics and Decision Modeling**  
 Instructor: *Dr. Dinesh R. Pai*
